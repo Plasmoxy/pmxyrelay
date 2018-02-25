@@ -1,0 +1,27 @@
+{
+  "name": "pmxyrelay",
+  "version": "1.0.0",
+  "description": "Plasmoxy's relay",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Plasmoxy/pmxyrelay.git"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "socket.io":"^2.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Plasmoxy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Plasmoxy/pmxyrelay/issues"
+  },
+  "homepage": "https://github.com/Plasmoxy/pmxyrelay#readme"
+}
